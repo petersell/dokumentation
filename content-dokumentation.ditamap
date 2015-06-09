@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="content-dokumentation" scope="local" title="Content dokumentation"
+     xml:lang="de-de">
+  <mapref href="edition/zeitgeist/technische-dokumentation/keydef-dokumentation.ditamap"
+          processing-role="resource-only"/>
+
+  <topicgroup collection-type="sequence">
+  <topicref keyref="chap1_con"/>
+  <topicref keyref="chap2_con"/>
+  <topicref keyref="chap3_con"/>
+  <topicref keyref="chap4_con"/>
+  </topicgroup>
+</map>

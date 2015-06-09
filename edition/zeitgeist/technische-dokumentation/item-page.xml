@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="part1_con" xml:lang="de-de">
+  <title>Unterversorgte Dokumentation?</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell</publisher>
+
+    <copyright>
+      <copyryear year="2011"/>
+
+      <copyrholder>petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="09.12.2011"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Part 1</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>1.petersell.com</prodname>
+
+        <vrmlist>
+          <vrm release="2011-11-01" version="1"/>
+        </vrmlist>
+
+        <featnum>0.1</featnum>
+
+        <series>Thema</series>
+      </prodinfo>
+    </metadata>
+    <resourceid id="part1_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Überall im Netz wird von Technischen Redakteuren die mangelnde
+    Unterstützung für eine professionellere Dokumentation beklagt. Wieso
+    sollten jedoch trotz Unternehmensgewinns Ausgaben in die Technische
+    Dokumentation fließen? So lange es Technischen Redakteuren nicht gelingt,
+    den Vorzug eines Investments in die Dokumentation zu belegen, wird sich im
+    Unternehmen nichts ändern, denn Geschäftsführungen sind dem gesamten
+    Unternehmen gegenüber verpflichtet. Natürlich sollen Redakteure weiterhin
+    für eine hilfreiche Dokumentation einstehen. Es gibt im Unternehmen jedoch
+    weitere Betätigungsfelder, die eigentlich nur sie besetzen können. Das
+    Buch hält Vorschläge an Redakteure und Geschäftsführer bereit.</p>
+  </conbody>
+</concept>

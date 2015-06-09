@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="chap3_con" xml:lang="de-de">
+  <title>Vorschläge an den Technischen Redakteur</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell</publisher>
+
+    <copyright>
+      <copyryear year="2011"/>
+
+      <copyrholder>petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="28.12.2011"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>techcomm-001</prodname>
+
+        <vrmlist>
+          <vrm release="2011-11-01" version="1"/>
+        </vrmlist>
+
+        <featnum>0.1</featnum>
+
+        <series>Techcomm</series>
+      </prodinfo>
+    </metadata>
+    <resourceid id="chap3_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Fortbildung</title><p>Bilden Sie sich fort in Sachen
+    Wiederverwendbarkeit von Teilen der Dokumentation. Ideal ist der Ansatz
+    des reuse in DITA. Ebenso über die Frage "Wie verschaffe ich Nutzern
+    Zugang zu einem Wissenspool"? Folgen Sie den Koryphäen der Technischen
+    Dokumentation auf Twitter und erkennen Sie Trends in der Dokumentation
+    frühzeitig! Berichten Sie über Ihre Erfahrungen für andere und für sich in
+    einem Blog.</p></section>
+
+    <section><title>Soziale Software im Unternehmen</title><p>Setzen Sie sich
+    im Unternehmen für die Einführung eines Confluence-Wikis ein. So geben Sie
+    jedem Subject Matter Expert (SME) die Gelegenheit, sein Wissen
+    unkompliziert zu teilen. Sie erfahren in Echtzeit von den einzelnen
+    Projekten und können die Kollegen zeitnah dazu befragen. Machen Sie sich
+    mit dem Tagging vertraut: egal wo die Kollegen ihr Wissen dokumentieren,
+    ziehen Sie mit einem Macro dieses Wissen an die Stelle, wo Sie und andere
+    (z.B. der Support) dieses Wissen brauchen. Ermuntern Sie die Mitarbeiter,
+    eigene Tags unter die Artikel der Kollegen zu setzen. Wenden Sie Ihr
+    Wissen um die Wiederverwendung (reuse) beim Einsatz des Macros
+    <uicontrol>excerpt-include</uicontrol> um.</p><p>Die nächsten Schlagworte
+    lassen sich vom Confluence-Einsatz im Unternehmen ableiten. In vielen
+    Unternehmen ist dies bereits im Einsatz. Aber auch SaaS-Anbieter wie
+    Salesforce integrieren Social Software in ihre
+    Applikationen.</p></section>
+
+    <section><title>SMEs schreiben mit</title><p>Setzen Sie sich dafür ein,
+    dass sämtliche Subject Matter Experts ihr Wissen unkompliziert in die
+    Dokumentation mit einfließen lassen können. Das sind sowohl Supporter,
+    Softwareentwickler und Software-Anwender. Ein Beispiel und Ausblick auf
+    diesen Trend gibt Mike Hughes - [3] The Degentrification of User
+    Assistance.</p><p><fig>
+        <title>Machen Sie es Experten einfach, Ihr Wissen zu
+        verschriftlichen.</title>
+
+        <image alt="Alle schreiben mit"
+               href="unterversorgt_sme-einfach-machen.gif"
+               placement="break"/>
+      </fig></p></section>
+
+    <section><title>Individueller Zugang zu Wissen</title><p>Es gibt nicht die
+    allgemeingültige, für jeden nachvollziehbare Taxonomie - Ihre Kapitel- und
+    Kategorie-Einteilung in der Dokumentation ist nicht für jeden
+    verständlich. Schauen Sie nur, wie jede Abteilung sich in Ihrem
+    Unternehmens-Confluence ihr Wissen ordnet! Keine Abteilung findet die
+    selbe Ordnungsstruktur! Aber es kann sich jeder Nutzer seine eigene
+    Oberfläche erschaffen und mit Hilfe des Taggings die Inhalte der anderen
+    an die Stelle ziehen, wo er es für richtig hält. Finden Sie Wege, wie
+    jeder Nutzer sich seine eigenen Zugangsstrukturen zum Wissen der anderen
+    erschaffen kann. Sorgen Sie dafür, dass die Anwender die Artikel der
+    anderen taggen und somit wiederfinden können. Einen Einstieg zur
+    Problematik bietet Tom Johnson - [4] Everything is
+    miscellaneous.</p></section>
+
+    <section><title>Community Building</title><p>Helfen Sie, eine starke
+    Anwender-Community aufzubauen. Eine Community ist eine Gemeinschaft, in
+    der jeder dem anderen helfen kann. Also auch die Anwender untereinander.
+    Es ist den Menschen eigen, sich im Leid zu helfen. Machen Sie es Ihren
+    Anwendern möglich, sich auszutauschen und menschlich näher zu kommen. Das
+    schlimmste für Anwender ist eine Software, die immer funktioniert. Nicht
+    ganz so schlimm ist eine Software, die fehlerhaft ist, aber mit einer
+    guten Dokumentation ausgestattet ist. Der Idealfall ist jedoch eine
+    fehlerhafte Software mit einer lebendigen Community. Wofür würden Sie sich
+    entscheiden: für eine fast perfekte Software ohne sozialen Austausch oder
+    für eine Software, die man im Erfahrungsaustausch mit anderen verbessern
+    kann?</p><p><fig>
+        <title>Helfen Sie der Community, es sich bequem zu machen.</title>
+
+        <image href="unterversorgt_bequem-machen.gif" placement="break"/>
+      </fig></p><p>Setzen Sie sich für ein Forum ein. Es geht dabei
+    hauptsächlich um die soziale, öffentliche Kommunikation der Nutzer
+    untereinander mit Ihnen als von allen akzeptierten Moderator. Anwender
+    fragen immer erst andere Menschen nach deren Erfahrung. Ob im Büro oder im
+    sozialen Netzwerk. Die Dokumentation ist immer die letzte
+    Zuflucht.</p></section>
+
+    <section><title>Dokumentation online</title><p>Machen Sie Ihre
+    Dokumentation im Internet zugänglich. Wenn das nicht geht, in einem
+    geschützten Anwenderbereich. Es ist inzwischen eine Bauernweisheit - wer
+    nicht gefunden wird, ist nicht existent. Wenn Ihr Unternehmen nicht gerade
+    Atomsprengköpfe fertigt, gibt es eigentlich keinen Grund, die Dokumenation
+    zu verstecken. Es sei denn, man erkennt schon an den Screenshots, dass die
+    Sofware dahinter nur schlecht sein kann! Die Gefahr geht selten von
+    Mitbewerbern aus. Die bahnbrechenden Innovation mit absolutem
+    Paradigmenwechsel kamen bisher immer von Neueinsteigern im
+    Markt.</p></section>
+
+    <section><title>Wissensarchitekt</title><p>Wandeln Sie sich vom Redakteur
+    in einen Wissensarchitekten. Sie werden sehen, dass nicht die
+    "Selbstschreiber" das Problem sind, sondern die
+    "Gar-Nicht-Schreiber".</p></section>
+
+    <section><title>Links zum Artikel</title><ul>
+        <li id="smes">[3] Subject Matter Experts schreiben selbst, 2011, <xref
+        format="html"
+        href="http://user-assistance.blogspot.com/2011/02/degentrification-of-user-assistance.html"
+        scope="external">zum Link</xref></li>
+
+        <li id="individuellerzugang">[4] Everything is miscellaneous by David
+        Weinberger, 2011, <xref format="html"
+        href="http://idratherbewriting.com/2011/04/15/everything-is-miscellaneous-by-david-weinberger/"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

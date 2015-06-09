@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="chap1_con" xml:lang="de-de">
+  <title>Innovation immer mit Gewinn?</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2011"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="28.12.2011"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Ikea</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>techcomm-001</prodname>
+
+        <vrmlist>
+          <vrm release="2011-11-01" version="1"/>
+        </vrmlist>
+
+        <featnum>0.1</featnum>
+
+        <series>Techcomm</series>
+      </prodinfo>
+    </metadata>
+    <resourceid id="chap1_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Vorigen Sommer
+    verschlug es meine Familie wieder in den Freizeitpark IKEA. Ein Abstecher
+    in den Sanitärbereich des Restaurants ließ mich schmunzeln: die Nachbartür
+    war mit etwas mehr Text versehen als meine ersehnte!</p><p><fig>
+        <title>Da kann keiner böse sein.</title>
+
+        <image alt="Ikea Innovation"
+               href="unterversorgt_ikea-mitarbeiter.gif"
+               placement="break"/>
+      </fig></p><p>Noch lange habe ich überlegt, warum eine Tür mich zum
+    Schmunzeln bringen konnte. Ich bemühte intellektuelle Konzepte wie
+    <i>Kontext</i> oder <i>Emotion</i>. Immerhin hatte der Verfasser es
+    geschafft, ein Verbot, eine Entschuldigung für eine verschlossene Tür in
+    einen Sympathieträger umzumünzen! Doch nach einigen Tagen war ich dann
+    bereit, es mir einzugestehen. Es war purer Neid! Nicht so sehr auf den
+    Spruch, sondern dass dieser sich auf Tausenden von Türen ausbreiten
+    konnte! Was muss das für eine innovative Geschäftsführung sein, in dessen
+    Biotop nicht nur solche Ideen entstehen, sondern diese auch realisiert
+    werden! Es ist bestimmt weniger aufwendig, für den Kundensupport ein
+    Twitter-Account einzurichten, als Tausende Türen zu kennzeichnen. Trotzdem
+    wird Ihnen Ersteres im Softwareunternehmen nicht so schnell gelingen!
+    </p>
+    <p>Überall im Netz wird von Technischen Redakteuren die mangelnde Unterstützung für eine
+    professionellere Dokumentation beklagt. Oft herrscht im
+    Softwareunternehmen die Mentalität des [1] Jeder kann
+    schreibens vor. Ich bildete mir ein, dass eine rudimentäre
+    Technische Redaktion ähnlich zu werten ist wie diese Tür: als Indikator
+    für die Innovationskultur im Unternehmen - also ebenfalls rudimentär. Bis
+    Ute Klingelhöfers Frage [2] <cite>Warum sollte man in die Technische Redaktion
+    investieren?</cite> die Problematik der Dauerunterversorgung wieder auf
+    die Füße stellte. Dieser Artikel soll Redakteuren helfen, die Gegenwart im
+    Softwareunternehmen zu verstehen und sie befähigen, Ihre Kraft auf
+    innovative Veränderungen in der Zukunft des Unternehmens zu verwenden.
+    </p>
+    <section><title>Links zum Artikel</title><ul>
+       <li>[1] Redakteuse.de:
+        Jeder kann schreiben, 2011, <xref format="html"
+        href="http://www.redakteuse.de/?p=645" scope="external">zum Link</xref></li>
+
+        <li id="warum-investieren">[2] Warum sollte man in Technische Redaktion
+        investieren?, 2011, <xref format="html"
+        href="http://technicalwritingworld.com/forum/topics/what-are-your-arguments-for"
+        scope="external">zum Link</xref></li>
+
+     </ul></section>
+  </conbody>
+</concept>

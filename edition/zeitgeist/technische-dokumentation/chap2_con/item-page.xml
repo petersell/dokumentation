@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="chap2_con" xml:lang="de-de">
+  <title>Wie sieht die Gegenwart aus?</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell</publisher>
+
+    <copyright>
+      <copyryear year="2011"/>
+
+      <copyrholder>petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="28.12.2011"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Callcenter</indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>techcomm-001</prodname>
+
+        <vrmlist>
+          <vrm release="2011-11-01" version="1"/>
+        </vrmlist>
+
+        <featnum>0.1</featnum>
+
+        <series>Techcomm</series>
+      </prodinfo>
+    </metadata>
+    <resourceid id="chap2_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Tatsächlich haben viele Softwareunternehmen ein relativ großes
+    Callcenter. Darin kümmern sich die Supporter am Telefon rührend um die
+    Hilfesuchenden. Der Schulungsraum ist immer ausgebucht und viele Supporter
+    bieten Schulungen beim Kunden vor Ort an. Warum sollten Geschäftsführungen
+    also Ausgaben tätigen, wenn die Kasse schon so richtig klingelt? Mark
+    Bakers Antwort auf die Fragestellung, warum man in die Dokumentation
+    investieren soll, brachte das zum Ausdruck, was Technische Redakteure
+    schon immer geahnt haben: Es gibt keine Statistik, die zeigt, dass
+    Softwareunternehmen mit rudimentärer Dokumenation geringere Gewinne
+    erwirtschaften als Unternehmen mit gut dokumentierten Produkten!</p>
+
+    <p>Mark Baker erklärt, warum es so wichtig ist, in der Sprache derer zu
+    reden, die wir erreichen wollen: nämlich die Geschäftsführung eines
+    Unternehmens sowie sämtliche Mitarbeiter ausserhalb der Technischen
+    Dokumentation! Was machen jedoch wir Rekateure? Wir behaupten, dass nur
+    wir die Sprachgewandtheit haben, komplizierte Dinge und Abläufe prägnant
+    in Anleitungen zu formen und zu kommunizieren. Und prompt müssen wir
+    erfahren, wie plötzlich der Gesprächspartner den Umkehrschluß zieht und
+    erbost reagiert: "Heißt das, alle anderen können das nicht?!".</p>
+
+    <p><fig>
+        <title>Sorgen Sie dafür, dass Ihre Dokumentation von allen gefunden
+        werden kann.</title>
+
+        <image href="unterversorgt_bike.gif" placement="break"/>
+      </fig></p>
+
+    <p>Sämtliche Mitarbeiter erwarten von der Geschäftsführung, dass das
+    Unternehmen Gewinne erwirtschaftet. Und das tun die meisten
+    Softwareunternehmen. Wenn wir also mehr Engagement des Unternehmens in die
+    Dokumentation einfordern, kann die Fragestellung nur lauten: Wieso sollten
+    trotz Unternehmensgewinn Ausgaben in die Technische Dokumentation fließen?
+    Es wird sehr schwer werden, dies mit Zahlen zu untermauern.</p>
+
+    <p>Das Wort <i>Mitarbeiter</i> verdient noch nähere Betrachtung, denn
+    tatsächlich beklagen meistens festangestellte Redakteure, dass an der
+    Dokumentation im Unternehmen gespart wird. Freiberufler beklagen dies viel
+    weniger. Zeitarbeiter und Redakteure mit befristetem Arbeitsvertrag habe
+    ich noch nie über den geringen Stellenwert der Dokumentation klagen hören.
+    Es ist schon ein Paradoxon: Die Unternehmen, die den Redakteuren eine
+    Festanstellung bieten, geben das meiste Geld für die Dokumentation aus.
+    Doch genau diesen Redakteuren bleibt es vorbehalten, über die Wichtigkeit
+    der Dokumentation im Unternehmen nachzudenken. Womöglich läßt sich dieses
+    Nachdenken auch als Privileg betrachten?</p>
+
+    <p>Ich präzisiere also: So lange es festangestellten Redakteuren nicht
+    gelingt, mit Kennzahlen den Vorzug eines Investment in die Dokumentation
+    zu belegen, wird sich im Unternehmen nichts ändern, denn
+    Geschäftsführungen sind dem gesamten Unternehmen gegenüber verpflichtet.
+    Wenn wir Redakteure also in Kategorien der Dokumentation laut nachdenken,
+    erhält die Geschäftsführung eine Rückmeldung dergestalt: Hey, wir haben
+    genau die richtigen Redakteure eingestellt! Sie haben Berufsehre und
+    bügeln die größten sprachlichen Patzer der Softwareentwickler und
+    Supporter wieder aus!</p>
+
+    <p>Natürlich sollen Redakteure weiterhin für eine hilfreiche Dokumentation
+    einstehen. Es gibt im Unternehmen jedoch weitere Betätigungsfelder, die
+    eigentlich nur sie besetzen können. Nachfolgend einige Vorschläge.</p>
+  </conbody>
+</concept>

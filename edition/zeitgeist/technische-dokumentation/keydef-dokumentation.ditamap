@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="keydef-dokumentation" scope="local"
+     title="Container Unterversorgte Dokumentation" xml:lang="de-de">
+  <keydef href="item-page.xml" keys="dokumentation"/>
+
+  <keydef href="chap1_con/item-page.xml" keys="chap1_con"/>
+
+  <keydef href="chap2_con/item-page.xml" keys="chap2_con"/>
+
+  <keydef href="chap3_con/item-page.xml" keys="chap3_con"/>
+
+  <keydef href="chap4_con/item-page.xml" keys="chap4_con"/>
+</map>

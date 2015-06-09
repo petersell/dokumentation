@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="chap4_con" xml:lang="de-de">
+  <title>Vorschläge an die Geschäftsführung</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell</publisher>
+
+    <copyright>
+      <copyryear year="2011"/>
+
+      <copyrholder>petersell</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="28.12.2011"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm></indexterm>
+      </keywords>
+
+      <prodinfo>
+        <prodname>techcomm-001</prodname>
+
+        <vrmlist>
+          <vrm release="2011-11-01" version="1"/>
+        </vrmlist>
+
+        <featnum>0.1</featnum>
+
+        <series>Techcomm</series>
+      </prodinfo>
+    </metadata>
+    <resourceid id="chap4_con"/>
+  </prolog>
+
+  <conbody>
+    <section><title>Wer schreibt, das bleibt</title><p>Was wäre ein
+    Wissensarchitekt ohne Wissen? Nichts! Sie müssen dafür sorgen, dass die
+    Subject Matter Experts ihr Wissen in Schriftform weitergeben. Achten Sie
+    bei Neueinstellungen einfach mal auf die Schreibgeschwindigkeit an der
+    Tastatur! Selbst wenn ein genialer Experte willens ist, sein Wissen zu
+    dokumentieren: er kann es gar nicht effektiv und hat es auch nicht vor.
+    Warum nicht mal Lohnerhöhungen nur noch an Mitarbeiter, die regelmäßig im
+    Firmenwiki Ihr Wissen teilen?</p><p>Was passiert bei Fachleuten, die nicht
+    schreiben? Sie geben neues Wissen in einer 1:1-Situation (Zeit und Raum =
+    jetzt und hier) an die Kollegen weiter. Justament wird ein Kollege bei
+    Erkenntnisgewinn aus seinem Arbeitsfluß gerissen und mündlich informiert.
+    Der Kollege kann gerade damit nichts anfangen, notiert ein paar
+    Stichpunkte und versucht, da anzuknüpfen, wo er gerade unterbrochen wurde.
+    Es kommt der Tag, wo das Wissen des Fachmanns (1:1-Komunikators) akut wird
+    und der Kollege fragt seinerseits den Fachmann und stört diesen im
+    Arbeitsfluß. Das ist noch die harmlose Variante zum Vergleich der
+    Abwesenheit des Fachmann wegen Krankheit etc. Das Wissen geht im
+    Unternehmen als "Stille Post" reihum.</p></section>
+
+    <section><title>Soziale Software</title><p>Verwechseln Sie den Begriff
+    <uicontrol>Soziale Software</uicontrol> nicht mit Facebook. Der Begriff
+    bedeutet einfach nur, dass Software immer sozial ist! Es ist noch nie eine
+    Software für einen einzigen Anwender programmiert worden. Nicht, wer die
+    beste Software hat, wird den Markt aufrollen, sondern wer die größte und
+    lebendigste Community hat. Die Community ist neben Ihren Mitarbeitern das
+    wertvollste Kapital, denn sie wird in Zukunft Ihr Produkt weiterempfehlen,
+    darüber schreiben und sich austauschen. Vergessen Sie nicht: die Community
+    reiht sich nicht in eine Call-Center-Warteschleife ein, sie schreibt!
+    Soziale Software ist Software, deren Anwender sich in schriftlicher Form
+    verständigen und gegenseitig helfen - auch im Abraten von
+    Softwareprodukten. Es wird in zehn Jahren nur noch Soziale Software geben,
+    denn die Anwendergemeinde hat sich verjüngt. Hotlineanrufe wird es nur
+    noch in seltenen Notfällen geben.</p></section>
+
+    <section><title>Technische Redakteure</title><p>Stellen Sie fähige
+    Wissensarchitekten ein, denen die obigen Stichworte nicht fremd sind.
+    Vielleicht ersparen Sie sich damit auch die Hilfe von
+    Social-Media-Beratern. Eine Social-Media-Strategie auf langes Sicht
+    umsetzten können sowieso nur Mitarbeiter, die dem Unternehmen durch eine
+    Festanstellung wohlwollend verbunden sind. Sollten die Klagen der
+    Redakteure über die Unterversorgung der Technischen Redaktion nicht
+    abreißen, prüfen Sie genauer! Vielleicht ist ja was dran.</p></section>
+
+    <section><title>Innovationsfähigkeit</title><p>Warum so ein langer Artikel
+    über Redakteure und das Soziale Schreiben? Ganz einfach: Fachleute, die es
+    gewohnt sind zu schreiben, tauschen sich mit anderen über das Wie des
+    Schreibens, welche Tools etc aus. Sie suchen im Netz und finden die
+    Erfahrungen anderer! Sie schauen permanent über den Tellerrand - wie lösen
+    andere Probleme?</p><p>Sie machen Ideen und fixieren diese schriftlich,
+    für jeden aufrufbar. Ideen können so reifen. Sie können nicht immer sofort
+    umgesetzt werden, sind aber, sobald neue Ideen gebraucht werden, für jeden
+    abrufbar und an neue Herausforderungen anpaßbar. Was macht nun ein
+    1:1-Kommunikator? Er erzählt Ihnen von einer Idee, die Sie aus bestimmten
+    Gründen zu Recht abweisen. Das galt aber nur in der 1:1-Situation. Die
+    Dinge können sich nach ein paar Monaten wenden. Aber die Idee
+    weg.</p><p>Vieles läßt sich nicht in Zahlen nachweisen. Wenn Sie es jedoch
+    versäumen, gute "Selbstschreiber" als Fachleute und gute
+    Wissensarchitekten als Technische Redakeure einzustellen, verliert Ihr
+    Unternehmen an Innovationskraft.</p></section>
+  </conbody>
+</concept>
